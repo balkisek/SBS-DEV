@@ -6,6 +6,7 @@
 
 
 alias s="git status"
+alias diff="git diff"
 git config alias.co checkout
 
 
